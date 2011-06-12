@@ -4,3 +4,5 @@ decorators for other common API functionality.
 
 This code can be installed into your python path using setup.py or it can be
 used as an app within your django project.
+
+Visit the wiki for documentation and further reading https://github.com/cootetom/ClassBasedGenericAPI/wiki
