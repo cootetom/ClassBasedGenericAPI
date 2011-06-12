@@ -42,7 +42,7 @@ for dirpath, dirnames, filenames in os.walk('ClassBasedGenericAPI'):
 setup(
     name = "ClassBasedGenericAPI",
     version = '1.0',
-    url = 'http://www.tomcoote.co.uk/',
+    url = 'https://github.com/cootetom/ClassBasedGenericAPI',
     author = 'Tom Coote',
     license = 'BSD',
     packages = packages,
